@@ -19,4 +19,4 @@ More weeks will be added here as I progress through the course.
 
 ## Academic honesty
 
-This repository is shared for portfolio purposes only. If you're taking CS50 SQL, copying any of this code and submitting it as your own work is a violation of [Harvard's academic honesty policy](https://cs50.harvard.edu/sql/honesty/) and the course's own policy — don't do it. Use this as a reference after you've completed the problem set on your own, not as a shortcut.
+Shared for portfolio purposes only. Do not copy for your own CS50 SQL submission — see [Harvard's policy](https://cs50.harvard.edu/sql/honesty/).
