@@ -10,7 +10,7 @@ week1/
   36-views/      Problem Set 0 - 36 Views
 
 week2/
-  packages-please/  Problem Set 1 - Packages, Please
+  packages-please/  Problem Set 1 - Packages-Please
   dese/             Problem Set 1 - DESE
   moneyball/        Problem Set 1 - Moneyball
 ```
