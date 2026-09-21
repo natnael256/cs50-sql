@@ -13,6 +13,11 @@ week2/
   packages-please/  Problem Set 1 - Packages-Please
   dese/             Problem Set 1 - DESE
   moneyball/        Problem Set 1 - Moneyball
+
+week3/
+  ATL/                    Problem Set 2 - ATL
+  Happy to Connect/       Problem Set 2 - Happy to Connect
+  Union Square Donuts/    Problem Set 2 - Union Square Donuts
 ```
 
 More weeks will be added here as I progress through the course.
