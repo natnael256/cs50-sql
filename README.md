@@ -27,10 +27,12 @@ week5/
   bed and breakfast/     Problem Set 4 - Bed and Breakfast
   census/               Problem Set 4 - Census
   The private eye/      Problem Set 4 - The Private Eye
-
 week6/
-  (coming soon)
-```
+  In a snap/      Problem Set 5 - In a Snap
+  your.harvard/   Problem Set 5 - your.harvard
+
+week7/
+  WIP
 
 More weeks will be added here as I progress through the course.
 
